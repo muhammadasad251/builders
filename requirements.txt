@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+python-multipart
+python-jose==3.2.0
+PyJWT
